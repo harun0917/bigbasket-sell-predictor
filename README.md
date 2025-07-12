@@ -34,5 +34,4 @@ jupyter notebook Big_Basket_Product_sell_predictor.ipynb
 - **Random Forest Regressor R² Score**: ~0.94 ✅
 
 ## 👤 Author
-**MD Harun Rashid**  
-AI/ML Intern | Team Leader – Jayadhi Internship
+**MD Harun Rashid**
